@@ -12,4 +12,6 @@ and also one more challenge is that currently the accuracy that i am getting is 
 
 LINK - [ https://colab.research.google.com/drive/1QEke4jiBg46LPtgafRyEeFs4u2Dn1X4O#scrollTo=veKREzjmXe_F ] same file i also uploaded in repo use this link if that block is not opening.
 
-Link of Assignment 1 - [https://colab.research.google.com/drive/1Wdv8aGKvtLbhtYCQpAkTfFFGQjNAnT12#scrollTo=wlkwJmwu0WeZ]
+Link for Assignment 1 - [https://colab.research.google.com/drive/1Wdv8aGKvtLbhtYCQpAkTfFFGQjNAnT12#scrollTo=wlkwJmwu0WeZ] 
+
+Link for Assignment 2 - [https://colab.research.google.com/drive/1oYqHgYLgdkzQerSjGUBEkuO7_TYMwh8W#scrollTo=qgR8IMesvKl7] same file i also uploaded in repo use this link if that block is not opening.
